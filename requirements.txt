@@ -1,0 +1,16 @@
+gradio
+openai
+faiss-cpu
+PyMuPDF
+deep-translator
+python-dotenv
+numpy
+pandas
+tiktoken
+pdfplumber
+sentence-transformers
+transformers
+langchain-openai
+langchain-community
+pypdf
+fitz
